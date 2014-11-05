@@ -1,0 +1,7 @@
+div.container{
+   margin-top:30px;
+}
+div.chat-container{
+   overflow: scroll;
+   height:600px;
+}

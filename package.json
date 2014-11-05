@@ -1,0 +1,16 @@
+{
+  "name": "PingMe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naveen",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.2.0",
+    "express": "^3.5.3",
+    "mongoose": "^3.8.18"
+  }
+}
